@@ -7,7 +7,7 @@
 <table align="center" width="100%" cellpadding="20">
   <tr>
     <td align="center" width="33%">
-      <h2>🧊 Mostafa Said</h2>
+      <h2>🧊 Mohamed Soliman</h2>
       <h3><strong>Software Engineer</strong></h3>
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Developer;Open+Source+Contributor;Always+Learning...&center=true&color=00F&width=250&height=35" alt="Typing SVG" />
       <div style="margin-top:10px;">
@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="34%">
       <h2>🧊 About Me</h2>
-      <p>Hi there, I'm Mostafa! A passionate developer with interests in web development, data science, and open-source contributions.</p>
+      <p>Hi there, I'm Mohamed! A passionate developer with interests in web development, data science, and open-source contributions.</p>
     </td>
     <td align="center" width="33%">
       <h2>🧊 Connect with Me</h2>
@@ -91,16 +91,15 @@
     <td align="center"  width="50%" valign="top">
       <h3 align="center">🌱 Currently Learning</h3>
       <ul style="max-width: 400px; margin: auto;">
-        <li>Advanced React and Angular concepts</li>
-        <li>Clean architecture & design patterns in .NET</li>
-        <li>Cloud deployment on Azure and AWS</li>
+        <li>Advanced Php And Laravel</li>
+        <li>Clean architecture & design patterns </li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🎯 My Goals for 2025</h3>
       <ul style="max-width: 400px; margin: auto;">
         <li>✅ Contribute to impactful open-source projects</li>
-        <li>🚀 Deploy production-ready APIs with Swagger & .NET</li>
+        <li>🚀 Deploy production-ready APIs with Swagger</li>
         <li>🌍 Launch a cloud-native full-stack application</li>
       </ul>
     </td>
@@ -151,7 +150,7 @@
 </p>
 
 <p align="center" style="font-style: italic; color: #666;">
-  Made with ❤️ by <strong>Mostafa Said</strong>
+  Made with ❤️ by <strong>Mohamed Soliman</strong>
 </p>
 
 
